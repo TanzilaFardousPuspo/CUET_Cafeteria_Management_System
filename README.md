@@ -12,14 +12,15 @@
 ![6](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/70ddaf47-4789-4e01-b5cc-d5143910718e)
 ## Signup
 ![7](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/c4921fef-0fc5-4754-a838-c5c9e358903a)
-![10](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/64cd92d9-0e51-41a9-b3c9-983215f8ebc5)
-
-![9](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/0e868f31-f55a-4f3c-95b1-b7f0a12be23a)
 ## Login
 ![8](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/84f8df01-5595-4237-a773-d657c2b5bf05)
 ## Reservation
-![11](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/62a9c873-5353-4968-9ab3-46a03c51cbc3)
+![9](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/0e868f31-f55a-4f3c-95b1-b7f0a12be23a)
 ## Reservation Receipt
+![10](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/64cd92d9-0e51-41a9-b3c9-983215f8ebc5)
+
+![11](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/62a9c873-5353-4968-9ab3-46a03c51cbc3)
+
 ![12](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/b07b0c86-4f99-4d95-8606-6ad7011e8438)
 ## Welcome Interface
 ![13](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/acd232e0-9269-4a50-b383-95621c9b814a)
