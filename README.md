@@ -30,9 +30,9 @@
 ![15](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/4c878156-80e2-45c8-87a7-34b027db93f6)
 ## Check Reservation Validity
 ![16](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/2a3ea76c-b669-4c41-ba12-2accac973876)
-## Cash Payment
-![17](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/898daca5-f570-4108-a807-f148118916d5)
 
+![17](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/898daca5-f570-4108-a807-f148118916d5)
+## Cash Payment
 ![18](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/ed86b875-03da-4374-8b48-83b4a7a32538)
 ![19](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/9fdcf643-a068-4009-a7d1-cb05955f6035)
 
