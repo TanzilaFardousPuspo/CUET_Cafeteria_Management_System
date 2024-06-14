@@ -34,6 +34,7 @@
 ![17](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/898daca5-f570-4108-a807-f148118916d5)
 ## Cash Payment
 ![18](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/ed86b875-03da-4374-8b48-83b4a7a32538)
+## Card Payment
 ![19](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/9fdcf643-a068-4009-a7d1-cb05955f6035)
 
 ![20](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/176a70d0-8e86-4072-8a72-0f19d338d518)
