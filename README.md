@@ -10,9 +10,10 @@
 ![3](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/7212e737-b389-4df1-b28f-4ea27baa4741)
 ![4](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/304f0b8a-9533-4bd5-b7e7-29f0d5897a80)
 ![6](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/70ddaf47-4789-4e01-b5cc-d5143910718e)
+## Signup
 ![7](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/c4921fef-0fc5-4754-a838-c5c9e358903a)
 ![10](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/64cd92d9-0e51-41a9-b3c9-983215f8ebc5)
-## Signup
+
 ![9](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/0e868f31-f55a-4f3c-95b1-b7f0a12be23a)
 ## Login
 ![8](https://github.com/TanzilaFardousPuspo/CUET_Cafeteria_Management_System/assets/150069606/84f8df01-5595-4237-a773-d657c2b5bf05)
